@@ -1,10 +1,11 @@
 import React from 'react';
+import './Convo.css';
 
 const Convo = () => {
   return(
-    <div>
-
-    </div>
+    <main className='Convo'>
+      Main conversation
+    </main>
   );
 };
 

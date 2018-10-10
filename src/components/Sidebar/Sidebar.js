@@ -1,10 +1,11 @@
 import React from 'react';
+import './Sidebar.css';
 
 const Sidebar = () => {
   return (
-    <div>
-
-    </div>
+  <aside className='Sidebar'>
+    Sidebar
+  </aside>
 );
 };
 
